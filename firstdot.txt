@@ -1,3 +1,4 @@
 We are going to practice GIT.
 git rm
 git status
+git diff
